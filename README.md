@@ -8,7 +8,7 @@ Responsive design for both desktop and mobile.
 
 Smooth navigation using React Router.
 
-Styled with Tailwind CSS for a modern look.
+Styled with  CSS for a modern look.
 
 Technologies Used
 React.js
